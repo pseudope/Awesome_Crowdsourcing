@@ -19,8 +19,12 @@ This repository contains major crowdsourcing papers. (Last Update: 20230718)
   (Rodrigues and Pereira) [[Link](https://arxiv.org/abs/1709.01779)]
 * [ICML 2018] Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers <br>
   (Ma et al.) [[Link](https://arxiv.org/abs/1904.11608)]
+* [ICML 2018] Analysis of Minimax Error Rate for Crowdsourcing and Its Application to Worker Clustering Model <br>
+  (Imamura et al.) [[Link](https://arxiv.org/abs/1802.04551)]
 
 ### 2019
+* [ICLR 2019] Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds
+  Cao et al.) [[Link](https://openreview.net/forum?id=BJg9DoR9t7)]
 * [NeurIPS 2019] Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms <br>
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/1909.12325)]
 * [ICML 2019] Exploiting Worker Correlation for Label Aggregation in Crowdsourcing <br>
