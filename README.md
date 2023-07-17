@@ -5,6 +5,8 @@ This repository contains major crowdsourcing papers. (Last Update: 7/18/2023)
 ## By Years
 
 ### ~ 2017
+* [J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm <br>
+  (Dawid and Skene) [Not Public]
 
 ### 2018
 * [AAAI 2018] Deep Learning from Crowds <br>
