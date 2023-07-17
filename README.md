@@ -25,6 +25,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230718)
 ### 2019
 * [ICLR 2019] Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds <br>
   (Cao et al.) [[Link](https://openreview.net/forum?id=BJg9DoR9t7)]
+* [AAAI 2019] Learning from Crowds by Modeling Common Confusions <br>
+  (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
 * [NeurIPS 2019] Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms <br>
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/1909.12325)]
 * [ICML 2019] Exploiting Worker Correlation for Label Aggregation in Crowdsourcing <br>
