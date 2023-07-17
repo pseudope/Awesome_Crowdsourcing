@@ -7,6 +7,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230718)
 ### ~ 2017
 * [J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm <br>
   (Dawid and Skene) [Not Public]
+* [AAAI 2014] Crowdsourcing for Multiple-Choice Question Answering <br>
+  (Aydin et al.) [[Link](https://aaai.org/papers/016-crowdsourcing-for-multiple-choice-question-answering/)]
 * [NeurIPS 2014 + JMLR 2016] Spectral Methods meet EM: A Provably Optimal Algorithm for Crowdsourcing <br>
   (Zhang et al.) [[Link 1](https://proceedings.neurips.cc/paper/2014/hash/788d986905533aba051261497ecffcbb-Abstract.html)] [[Link 2](https://jmlr.org/papers/v17/14-511.html)]
 * [ICML 2016] Optimality of Belief Propagation for Crowdsourced Classification <br>
