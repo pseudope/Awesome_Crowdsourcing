@@ -15,6 +15,8 @@ This repository contains major crowdsourcing papers. (Last Update: 7/18/2023)
 ### 2018
 * [AAAI 2018] Deep Learning from Crowds <br>
   (Rodrigues and Pereira) [[Link](https://arxiv.org/abs/1709.01779)]
+* [ICML 2018] Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers <br>
+  (Ma et al.) [[Link](https://arxiv.org/abs/1904.11608)]
 
 ### 2019
 * [NeurIPS 2019] Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms <br>
@@ -22,6 +24,8 @@ This repository contains major crowdsourcing papers. (Last Update: 7/18/2023)
 
 
 ### 2020
+* [NeurIPS 2020] Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion <br>
+  (Ma and Olshevsky) [[Link](https://arxiv.org/abs/2010.12181)]
 
 ### 2021
 
