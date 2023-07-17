@@ -8,6 +8,9 @@ This repository contains major crowdsourcing papers. (Last Update: 7/18/2023)
 * [J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm <br>
   (Dawid and Skene) [Not Public]
 
+* [ICML 2016] Optimality of Belief Propagation for Crowdsourced Classification <br>
+  (Ok et al.) [[Link 1](https://proceedings.mlr.press/v48/ok16)] [[Link2](https://proceedings.mlr.press/v48/ok16)]
+
 ### 2018
 * [AAAI 2018] Deep Learning from Crowds <br>
   (Rodrigues and Pereira) [[Link](https://arxiv.org/abs/1709.01779)]
