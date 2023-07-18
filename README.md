@@ -36,6 +36,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230718)
 ### 2020
 * [NeurIPS 2020] Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion <br>
   (Ma and Olshevsky) [[Link](https://arxiv.org/abs/2010.12181)]
+* [VLDM 2020] Detecting and Preventing Confused Labels in Crowdsourced Data <br>
+  (Krivosheev et al.) [[Link](http://www.vldb.org/pvldb/vol13/p2522-krivosheev.pdf)]
 
 ### 2021
 
