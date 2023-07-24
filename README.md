@@ -5,7 +5,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230718)
 ## By Years
 
 ### Survey
-* A Survey on Truth Discovery <br>
+* [2016] A Survey on Truth Discovery <br>
   (Li et al.) [[Link](https://dl.acm.org/doi/abs/10.1145/2897350.2897352)]
 
 ### ~ 2017
