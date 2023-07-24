@@ -48,6 +48,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230724)
 ### 2022
 
 ### 2023
+* [ICLR 2023] Deep Learning From Crowdsourced Labels: Coupled Cross-entropy Minimization, Identifiability, and Regularization <br>
+  (Ibrahim et al.) [[Link](https://arxiv.org/abs/2306.03288)]
 * [ICML 2023] Recovering Top-Two Answers and Confusion Probability in Multi-Choice Crowdsourcing <br>
   (Jeong and Chung) [[Link](https://arxiv.org/abs/2301.00006)]
 
