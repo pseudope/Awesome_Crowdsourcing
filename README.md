@@ -4,6 +4,10 @@ This repository contains major crowdsourcing papers. (Last Update: 20230718)
 
 ## By Years
 
+### Survey
+* A Survey on Truth Discovery <br>
+  (Li et al.) [[Link](https://dl.acm.org/doi/abs/10.1145/2897350.2897352)]
+
 ### ~ 2017
 * [J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm <br>
   (Dawid and Skene) [Not Public]
