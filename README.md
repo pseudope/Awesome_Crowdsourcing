@@ -44,6 +44,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230724)
   (Krivosheev et al.) [[Link](http://www.vldb.org/pvldb/vol13/p2522-krivosheev.pdf)]
 
 ### 2021
+* [AAAI 2021] Learning from Crowds by Modeling Common Confusions <br>
+  (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
 
 ### 2022
 
