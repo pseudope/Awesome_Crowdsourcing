@@ -66,6 +66,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
   (Sam and Kolter) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26159)]
 * [ICLR 2023] Deep Learning From Crowdsourced Labels: Coupled Cross-entropy Minimization, Identifiability, and Regularization <br>
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/2306.03288)]
+* [ICLE 2023] Learning Hyper Label Model for Programmatic Weak Supervision <br>
+  (Wu et al.) [[Link](https://openreview.net/forum?id=aCQt_BrkSjC)]
 * [ICML 2023] Recovering Top-Two Answers and Confusion Probability in Multi-Choice Crowdsourcing <br>
   (Jeong and Chung) [[Link](https://arxiv.org/abs/2301.00006)]
 * [SIGIR 2023] Learning from Crowds with Annotation Reliability <br>
