@@ -39,7 +39,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
   (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
 * [NeurIPS 2019] Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms <br>
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/1909.12325)]
-* [CVPR 2019] Learning From Noisy Labels By Regularized Estimation Of Annotator Confusion <br>
+* [CVPR 2019] Learning From Noisy Labels By Regularized Estimation of Annotator Confusion <br>
   (Tanno et al.) [[Link](https://arxiv.org/abs/1902.03680)]
 * [ICML 2019] Exploiting Worker Correlation for Label Aggregation in Crowdsourcing <br>
   (Li et al.) [[Link](https://proceedings.mlr.press/v97/li19i.html)]
