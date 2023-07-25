@@ -17,6 +17,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230724)
   (Zhang et al.) [[Link 1](https://proceedings.neurips.cc/paper/2014/hash/788d986905533aba051261497ecffcbb-Abstract.html)] [[Link 2](https://jmlr.org/papers/v17/14-511.html)]
 * [ICML 2016] Optimality of Belief Propagation for Crowdsourced Classification <br>
   (Ok et al.) [[Link 1](https://proceedings.mlr.press/v48/ok16)] [[Link2](https://proceedings.mlr.press/v48/ok16)]
+* [IJCAI 2017] Aggregating Crowd Wisdoms with Label-aware Autoencoders <br>
+  (Yin et al.) [[Link](https://www.ijcai.org/proceedings/2017/0184)]
 
 ### 2018
 * [AAAI 2018] Deep Learning from Crowds <br>
