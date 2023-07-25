@@ -55,7 +55,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
 * [AAAI 2021] Learning from Crowds by Modeling Common Confusions <br>
   (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
 * [NeurIPS 2021] End-to-End Weak Supervision <br>
-  (Cachay) [[Link](https://arxiv.org/abs/2107.02233)]
+  (Cachay et al.) [[Link](https://arxiv.org/abs/2107.02233)]
 
 ### 2022
 * [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
