@@ -1,6 +1,6 @@
 # Awesome Crowdsourcing
 
-This repository contains major crowdsourcing papers. (Last Update: 20230724)
+This repository contains major crowdsourcing papers. (Last Update: 20230725)
 
 ## By Years
 
@@ -23,6 +23,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230724)
 ### 2018
 * [AAAI 2018] Deep Learning from Crowds <br>
   (Rodrigues and Pereira) [[Link](https://arxiv.org/abs/1709.01779)]
+* [ICLR 2018] Learning From Noisy Singly-labeled Data <br>
+  (Khetan et al.) [[Link](https://arxiv.org/abs/1712.04577)]
 * [ICML 2018] Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers <br>
   (Ma et al.) [[Link](https://arxiv.org/abs/1904.11608)]
 * [ICML 2018] Analysis of Minimax Error Rate for Crowdsourcing and Its Application to Worker Clustering Model <br>
