@@ -54,6 +54,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
   (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
 
 ### 2022
+* [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
+  (Gao et al.) [[Link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_24)]
 
 ### 2023
 * [ICLR 2023] Deep Learning From Crowdsourced Labels: Coupled Cross-entropy Minimization, Identifiability, and Regularization <br>
