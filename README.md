@@ -54,12 +54,16 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
 ### 2021
 * [AAAI 2021] Learning from Crowds by Modeling Common Confusions <br>
   (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
+* [NeurIPS 2021] End-to-End Weak Supervision <br>
+  (Cachay) [[Link](https://arxiv.org/abs/2107.02233)]
 
 ### 2022
 * [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
   (Gao et al.) [[Link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_24)]
 
 ### 2023
+* [AAAI 2023] Losses over Labels: Weakly Supervised Learning via Direct Loss Construction <br>
+  (Sam and Kolter) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26159)]
 * [ICLR 2023] Deep Learning From Crowdsourced Labels: Coupled Cross-entropy Minimization, Identifiability, and Regularization <br>
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/2306.03288)]
 * [ICML 2023] Recovering Top-Two Answers and Confusion Probability in Multi-Choice Crowdsourcing <br>
