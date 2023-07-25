@@ -20,7 +20,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
 * [IJCAI 2017] Aggregating Crowd Wisdoms with Label-aware Autoencoders <br>
   (Yin et al.) [[Link](https://www.ijcai.org/proceedings/2017/0184)]
 * [VLDB 2017] Truth Inference in Crowdsourcing: Is the Problem Solved? <br>
-  (Zheng et al.) [Link(https://dl.acm.org/doi/abs/10.14778/3055540.3055547)]
+  (Zheng et al.) [[Link](https://dl.acm.org/doi/abs/10.14778/3055540.3055547)]
 
 ### 2018
 * [AAAI 2018] Deep Learning from Crowds <br>
