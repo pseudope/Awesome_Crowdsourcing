@@ -70,6 +70,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
   (Wu et al.) [[Link](https://openreview.net/forum?id=aCQt_BrkSjC)]
 * [ICML 2023] Recovering Top-Two Answers and Confusion Probability in Multi-Choice Crowdsourcing <br>
   (Jeong and Chung) [[Link](https://arxiv.org/abs/2301.00006)]
+* [ICML 2023] FREDIS: A Fusion Framework of Refinement and Disambiguation for Unreliable Partial Label Learning <br>
+  (Qiao et al.) [[Link](https://proceedings.mlr.press/v202/qiao23b.html)]
 * [SIGIR 2023] Learning from Crowds with Annotation Reliability <br>
   (Cao et al.) [[Link](https://dl.acm.org/doi/abs/10.1145/3539618.3592007)]
 * [TMLR 2023 (Under Review)] Multi-annotator Deep Learning: A Probabilistic Framework for Classification <br>
