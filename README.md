@@ -66,6 +66,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230727)
 ### 2023
 * [AAAI 2023] Losses over Labels: Weakly Supervised Learning via Direct Loss Construction <br>
   (Sam and Kolter) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/26159)]
+* [AAAI 2023] Learning with Partial Labels from Semi-supervised Perspective <br>
+  (Xu et al.) [[Link](https://arxiv.org/abs/2211.13655)]
 * [ICLR 2023] Deep Learning From Crowdsourced Labels: Coupled Cross-entropy Minimization, Identifiability, and Regularization <br>
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/2306.03288)]
 * [ICLR 2023] Learning Hyper Label Model for Programmatic Weak Supervision <br>
