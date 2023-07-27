@@ -58,6 +58,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230725)
   (Cachay et al.) [[Link](https://arxiv.org/abs/2107.02233)]
 
 ### 2022
+* [ICLR 2022 Oral] PiCO: Contrastive Label Disambiguation for Partial Label Learning <br>
+  (Wang et al.) [[Link](https://openreview.net/forum?id=EhYjZy6e1gJ)]
 * [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
   (Gao et al.) [[Link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_24)]
 
