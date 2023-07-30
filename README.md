@@ -1,6 +1,6 @@
 # Awesome Crowdsourcing
 
-This repository contains major crowdsourcing papers. (Last Update: 20230731)
+This repository contains major crowdsourcing papers. (Last Update: 20230731) <br>
 **Bold**: 100+ Cited
 
 ## By Years
@@ -10,25 +10,25 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731)
   (Li et al.) [[Link](https://dl.acm.org/doi/abs/10.1145/2897350.2897352)]
 
 ### ~ 2017
-* [J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm <br>
+* **[J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm** <br>
   (Dawid and Skene) [Not Public]
 * **[AAAI 2014] Crowdsourcing for Multiple-Choice Question Answering** <br>
   (Aydin et al.) [[Link](https://aaai.org/papers/016-crowdsourcing-for-multiple-choice-question-answering/)]
-* [NeurIPS 2014 + JMLR 2016] Spectral Methods meet EM: A Provably Optimal Algorithm for Crowdsourcing <br>
+* **[NeurIPS 2014 + JMLR 2016] Spectral Methods meet EM: A Provably Optimal Algorithm for Crowdsourcing** <br>
   (Zhang et al.) [[Link 1](https://proceedings.neurips.cc/paper/2014/hash/788d986905533aba051261497ecffcbb-Abstract.html)] [[Link 2](https://jmlr.org/papers/v17/14-511.html)]
 * [ICML 2016] Optimality of Belief Propagation for Crowdsourced Classification <br>
   (Ok et al.) [[Link 1](https://proceedings.mlr.press/v48/ok16)] [[Link2](https://proceedings.mlr.press/v48/ok16)]
 * [IJCAI 2017] Aggregating Crowd Wisdoms with Label-aware Autoencoders <br>
   (Yin et al.) [[Link](https://www.ijcai.org/proceedings/2017/0184)]
-* [VLDB 2017] Truth Inference in Crowdsourcing: Is the Problem Solved? <br>
+* **[VLDB 2017] Truth Inference in Crowdsourcing: Is the Problem Solved?** <br>
   (Zheng et al.) [[Link](https://dl.acm.org/doi/abs/10.14778/3055540.3055547)]
 
 ### 2018
-* [AAAI 2018] Deep Learning from Crowds <br>
+* **[AAAI 2018] Deep Learning from Crowds** <br>
   (Rodrigues and Pereira) [[Link](https://arxiv.org/abs/1709.01779)]
-* [AAAI 2018] Who Said What: Modeling Individual Labelers Improves Classification <br>
+* **[AAAI 2018] Who Said What: Modeling Individual Labelers Improves Classification** <br>
   (Guan et al.) [[Link](https://arxiv.org/abs/1703.08774)]
-* [ICLR 2018] Learning From Noisy Singly-labeled Data <br>
+* **[ICLR 2018] Learning From Noisy Singly-labeled Data** <br>
   (Khetan et al.) [[Link](https://arxiv.org/abs/1712.04577)]
 * [ICML 2018] Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers <br>
   (Ma et al.) [[Link](https://arxiv.org/abs/1904.11608)]
@@ -38,11 +38,9 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731)
 ### 2019
 * [ICLR 2019] Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds <br>
   (Cao et al.) [[Link](https://openreview.net/forum?id=BJg9DoR9t7)]
-* [AAAI 2019] Learning from Crowds by Modeling Common Confusions <br>
-  (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
 * [NeurIPS 2019] Crowdsourcing via Pairwise Co-occurrences: Identifiability and Algorithms <br>
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/1909.12325)]
-* [CVPR 2019] Learning From Noisy Labels By Regularized Estimation of Annotator Confusion <br>
+* **[CVPR 2019] Learning From Noisy Labels By Regularized Estimation of Annotator Confusion** <br>
   (Tanno et al.) [[Link](https://arxiv.org/abs/1902.03680)]
 * [ICML 2019] Exploiting Worker Correlation for Label Aggregation in Crowdsourcing <br>
   (Li et al.) [[Link](https://proceedings.mlr.press/v97/li19i.html)]
