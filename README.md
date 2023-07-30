@@ -12,6 +12,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731) <br
 ### ~ 2017
 * **[J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm** <br>
   (Dawid and Skene) [Not Public]
+* **[ICML 2011] Active learning from crowds** <br>
+  (Yan et al.) [[Link](https://dl.acm.org/doi/10.5555/3104482.3104628)]
 * **[AAAI 2014] Crowdsourcing for Multiple-Choice Question Answering** <br>
   (Aydin et al.) [[Link](https://aaai.org/papers/016-crowdsourcing-for-multiple-choice-question-answering/)]
 * **[NeurIPS 2014 + JMLR 2016] Spectral Methods meet EM: A Provably Optimal Algorithm for Crowdsourcing** <br>
@@ -34,6 +36,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731) <br
   (Ma et al.) [[Link](https://arxiv.org/abs/1904.11608)]
 * [ICML 2018] Analysis of Minimax Error Rate for Crowdsourcing and Its Application to Worker Clustering Model <br>
   (Imamura et al.) [[Link](https://arxiv.org/abs/1802.04551)]
+* [WWW 2018] Leveraging Crowdsourcing Data For Deep Active Learning - An Application: Learning Intents in Alexa <br>
+  (Yang et al.) [Link[(https://arxiv.org/abs/1803.04223)]]
 
 ### 2019
 * [ICLR 2019] Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds <br>
@@ -67,6 +71,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731) <br
   (Wang et al.) [[Link](https://openreview.net/forum?id=EhYjZy6e1gJ)]
 * [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
   (Gao et al.) [[Link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_24)]
+* [TNNLS 2022] Deep Learning From Multiple Noisy Annotators as A Union <br>
+  (Wei et al.) [Link[(https://ieeexplore.ieee.org/abstract/document/9765651)]]
 
 ### 2023
 * [AAAI 2023] Losses over Labels: Weakly Supervised Learning via Direct Loss Construction <br>
