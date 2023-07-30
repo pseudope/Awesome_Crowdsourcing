@@ -37,7 +37,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731) <br
 * [ICML 2018] Analysis of Minimax Error Rate for Crowdsourcing and Its Application to Worker Clustering Model <br>
   (Imamura et al.) [[Link](https://arxiv.org/abs/1802.04551)]
 * [WWW 2018] Leveraging Crowdsourcing Data For Deep Active Learning - An Application: Learning Intents in Alexa <br>
-  (Yang et al.) [Link[(https://arxiv.org/abs/1803.04223)]]
+  (Yang et al.) [[Link](https://arxiv.org/abs/1803.04223)]
 
 ### 2019
 * [ICLR 2019] Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds <br>
