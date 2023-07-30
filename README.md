@@ -54,6 +54,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230727)
 ### 2021
 * [AAAI 2021] Learning from Crowds by Modeling Common Confusions <br>
   (Chu et al.) [[Link](https://arxiv.org/abs/2012.13052)]
+* [KDD 2021] Improve Learning from Crowds via Generative Augmentation <br>
+  (Chu and Wang) [[Link](https://arxiv.org/abs/2107.10449)]
 * [NeurIPS 2021] End-to-End Weak Supervision <br>
   (Cachay et al.) [[Link](https://arxiv.org/abs/2107.02233)]
 
