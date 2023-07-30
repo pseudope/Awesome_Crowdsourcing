@@ -26,7 +26,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731)
 * [AAAI 2018] Deep Learning from Crowds <br>
   (Rodrigues and Pereira) [[Link](https://arxiv.org/abs/1709.01779)]
 * [AAAI 2018] Who Said What: Modeling Individual Labelers Improves Classification <br>
-  (Guan et al.) [Link][(https://arxiv.org/abs/1703.08774)]
+  (Guan et al.) [[Link](https://arxiv.org/abs/1703.08774)]
 * [ICLR 2018] Learning From Noisy Singly-labeled Data <br>
   (Khetan et al.) [[Link](https://arxiv.org/abs/1712.04577)]
 * [ICML 2018] Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers <br>
