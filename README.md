@@ -72,7 +72,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230731) <br
 * [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
   (Gao et al.) [[Link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_24)]
 * [TNNLS 2022] Deep Learning From Multiple Noisy Annotators as A Union <br>
-  (Wei et al.) [Link[(https://ieeexplore.ieee.org/abstract/document/9765651)]]
+  (Wei et al.) [[Link](https://ieeexplore.ieee.org/abstract/document/9765651)]
 
 ### 2023
 * [AAAI 2023] Losses over Labels: Weakly Supervised Learning via Direct Loss Construction <br>
