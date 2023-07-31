@@ -1,6 +1,6 @@
 # Awesome Crowdsourcing
 
-This repository contains major crowdsourcing papers. (Last Update: 20230731) <br>
+This repository contains major crowdsourcing papers. (Last Update: 20230801) <br>
 **Bold**: 100+ Cited
 
 ## By Years
