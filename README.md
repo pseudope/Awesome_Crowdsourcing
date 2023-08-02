@@ -1,6 +1,6 @@
 # Awesome Crowdsourcing
 
-This repository contains major crowdsourcing papers. (Last Update: 20230801) <br>
+This repository contains major crowdsourcing papers. (Last Update: 20230802) <br>
 **Bold**: 100+ Cited
 
 ## By Years
@@ -68,7 +68,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230801) <br
 * [AAAI 2022] Adversarial Learning from Crowds <br>
   (Chen et al.) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20467)]
 * [ICLR 2022 Oral] PiCO: Contrastive Label Disambiguation for Partial Label Learning <br>
-  (Wang et al.) [[Link](https://openreview.net/forum?id=EhYjZy6e1gJ)]
+  (Wang et al.) [[Link](https://openreview.net/forum?id=EhYjZy6e1gJ)] [[Link for PiCO+](https://arxiv.org/abs/2201.08984)]
 * [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
   (Gao et al.) [[Link](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_24)]
 * [TNNLS 2022] Deep Learning From Multiple Noisy Annotators as A Union <br>
