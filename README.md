@@ -3,6 +3,18 @@
 This repository contains major crowdsourcing papers. (Last Update: 20230802) <br>
 **Bold**: 100+ Cited
 
+## Datasets
+
+### Classification
+|Dataset|Data Type|Classes|Annotators|Train Data|Val Data|Test Data|Link|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|LabelMe (Original)|Image|8|59|1,000|500|1,188|[Link](https://fprodrigues.com/publications/deep-crowds/)|
+|LabelMe (Compressed)|Extracted Features from VGG-16|8|59|10,000|500|1,188|[Link](https://fprodrigues.com/publications/deep-crowds/)|
+|Music|.csv File|10|44|700 (595)|0 (105)|300|[Link](https://fprodrigues.com/publications/deep-crowds/)|
+
+### Regression
+
+
 ## By Years
 
 ### Survey
@@ -67,6 +79,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230802) <br
 ### 2022
 * [AAAI 2022] Adversarial Learning from Crowds <br>
   (Chen et al.) [[Link](https://ojs.aaai.org/index.php/AAAI/article/view/20467)]
+* [AAAI 2022] Robust Deep Learning from Crowds with Belief Propagation <br>
+  (Kim, Cho et al.) [[Link](https://arxiv.org/abs/2111.00734)]
 * [ICLR 2022 Oral] PiCO: Contrastive Label Disambiguation for Partial Label Learning <br>
   (Wang et al.) [[Link](https://openreview.net/forum?id=EhYjZy6e1gJ)] [[Link for PiCO+](https://arxiv.org/abs/2201.08984)]
 * [ECCV 2022] Learning from Multiple Annotator Noisy Labels via Sample-Wise Label Fusion <br>
