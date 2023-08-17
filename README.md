@@ -89,7 +89,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230817) <br
 * [TNNLS 2022] Deep Learning From Multiple Noisy Annotators as A Union <br>
   (Wei et al.) [[Link](https://ieeexplore.ieee.org/abstract/document/9765651)]
 * [NeurIPS 2022 W] CROWDLAB: Supervised learning to infer consensus labels and quality scores for data with multiple annotators <br>
-  (Goh et al.) [[Link](https://github.com/cleanlab/multiannotator-benchmarks)]
+  (Goh et al.) [[Link](https://arxiv.org/abs/2210.06812)]
 
 ### 2023
 * [AAAI 2023] Losses over Labels: Weakly Supervised Learning via Direct Loss Construction <br>
