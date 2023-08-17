@@ -9,7 +9,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230802) <br
 |Dataset|Data Type|Classes|Annotators|Train Data|Val Data|Test Data|Link|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |LabelMe (Original)|Image|8|59|1,000|500|1,188|[Link](https://fprodrigues.com/publications/deep-crowds/)|
-|LabelMe (Compressed)|Extracted Features from VGG-16|8|59|10,000|500|1,188|[Link](https://fprodrigues.com/publications/deep-crowds/)|
+|LabelMe (Compressed)|Extracted from VGG-16|8|59|10,000|500|1,188|[Link](https://fprodrigues.com/publications/deep-crowds/)|
 |Music|.csv File|10|44|700 (595)|0 (105)|300|[Link](https://fprodrigues.com/publications/deep-crowds/)|
 
 ### Regression
