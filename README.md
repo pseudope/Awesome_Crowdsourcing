@@ -92,6 +92,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230825) <br
   (Wei et al.) [[Link](https://ieeexplore.ieee.org/abstract/document/9765651)]
 * [NeurIPS 2022 W] CROWDLAB: Supervised learning to infer consensus labels and quality scores for data with multiple annotators <br>
   (Goh et al.) [[Link](https://arxiv.org/abs/2210.06812)]
+* [AAAIA HCOMP 2022] Eliciting and Learning with Soft Labels from Every Annotator <br>
+  (Collins et al.) [[Link](https://ojs.aaai.org/index.php/HCOMP/article/view/21986)]
 
 ### 2023
 * [AAAI 2023] Losses over Labels: Weakly Supervised Learning via Direct Loss Construction <br>
