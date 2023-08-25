@@ -59,7 +59,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230825) <br
   (Ibrahim et al.) [[Link](https://arxiv.org/abs/1909.12325)]
 * **[CVPR 2019] Learning From Noisy Labels By Regularized Estimation of Annotator Confusion** <br>
   (Tanno et al.) [[Link](https://arxiv.org/abs/1902.03680)]
-* **[ICCV 2019] Human uncertainty makes classification more robust** <br>
+* **[ICCV 2019] Human Uncertainty Makes Classification More Robust** <br>
   (Peterson et al.) [[Link](https://arxiv.org/abs/1908.07086)]
 * [ICML 2019] Exploiting Worker Correlation for Label Aggregation in Crowdsourcing <br>
   (Li et al.) [[Link](https://proceedings.mlr.press/v97/li19i.html)]
