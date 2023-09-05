@@ -1,9 +1,10 @@
 # Awesome Crowdsourcing
 
 This repository contains major crowdsourcing papers. (Last Update: 20230905) <br>
-**Bold**: 100+ Cited
+
 
 ## Datasets
+Note that all the datasets below are real ones. That is, synthetic ones are not included.
 
 ### Classification
 |Dataset|Data Type|Classes|Annotators|Train Data|Val Data|Test Data|Link|
@@ -17,6 +18,7 @@ This repository contains major crowdsourcing papers. (Last Update: 20230905) <br
 
 
 ## By Years
+**Bold**: 100+ Cited
 
 ### Survey
 * [2016] A Survey on Truth Discovery <br>
