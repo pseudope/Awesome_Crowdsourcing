@@ -1,6 +1,6 @@
 # Awesome Crowdsourcing
 
-This repository contains major crowdsourcing papers. (Last Update: 20230825) <br>
+This repository contains major crowdsourcing papers. (Last Update: 20230905) <br>
 **Bold**: 100+ Cited
 
 ## Datasets
@@ -21,6 +21,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230825) <br
 ### Survey
 * [2016] A Survey on Truth Discovery <br>
   (Li et al.) [[Link](https://dl.acm.org/doi/abs/10.1145/2897350.2897352)]
+* **[2016] Crowdsourcing in Computer Vision** <br>
+  (Kovashka et al.) [[Link](https://arxiv.org/abs/1611.02145)]
 
 ### ~ 2017
 * **[J. R. Stat. Soc., C: Appl. Stat. 1979] Maximum Likelihood Estimation of Observer Error-rates Using the EM Algorithm** <br>
@@ -68,6 +70,8 @@ This repository contains major crowdsourcing papers. (Last Update: 20230825) <br
 ### 2020
 * [NeurIPS 2020] Adversarial Crowdsourcing Through Robust Rank-One Matrix Completion <br>
   (Ma and Olshevsky) [[Link](https://arxiv.org/abs/2010.12181)]
+* [IJCAI 2020] Structured Probabilistic End-to-End Learning from Crowds <br>
+  (Chen et al.) [[Link](https://www.ijcai.org/proceedings/2020/210)]
 * [VLDM 2020] Detecting and Preventing Confused Labels in Crowdsourced Data <br>
   (Krivosheev et al.) [[Link](http://www.vldb.org/pvldb/vol13/p2522-krivosheev.pdf)]
 
