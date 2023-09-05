@@ -14,8 +14,7 @@ Note that all the datasets below are real ones. That is, synthetic ones are not 
 |Music|.csv File|10|44|700 (595)|- (105)|300|[Link](https://fprodrigues.com/publications/deep-crowds/)|
 |CIFAR-10H|Image|10|2,571|10,000|-|-|[Link](https://github.com/jcpeterson/cifar-10h)|
 
-### Regression
-
+<br> <br> <br>
 
 ## By Years
 **Bold**: 100+ Cited
