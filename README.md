@@ -1,6 +1,6 @@
 # Awesome Crowdsourcing
 
-This repository contains major crowdsourcing papers. (Last Update: 20230905) <br>
+This repository contains major crowdsourcing papers. (Last Update: 20230908) <br>
 
 
 ## Datasets
@@ -54,6 +54,8 @@ Note that all the datasets below are real ones. That is, synthetic ones are not 
   (Imamura et al.) [[Link](https://arxiv.org/abs/1802.04551)]
 * [WWW 2018] Leveraging Crowdsourcing Data For Deep Active Learning - An Application: Learning Intents in Alexa <br>
   (Yang et al.) [[Link](https://arxiv.org/abs/1803.04223)]
+* [KDD 2018] Multi-Label Inference for Crowdsourcing <br>
+  (Zhang et al.) [[Link](https://dl.acm.org/doi/10.1145/3219819.3219958)]
 
 ### 2019
 * [ICLR 2019] Max-MIG: an Information Theoretic Approach for Joint Learning from Crowds <br>
