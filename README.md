@@ -1,6 +1,6 @@
 # Awesome Crowdsourcing
 
-This repository contains major crowdsourcing papers. (Last Update: 20230908) <br>
+This repository contains major crowdsourcing papers. (Last Update: 20230914) <br>
 
 
 ## Datasets
@@ -119,8 +119,8 @@ Note that all the datasets below are real ones. That is, synthetic ones are not 
   (Cao et al.) [[Link](https://dl.acm.org/doi/abs/10.1145/3539618.3592007)]
 * [IJCAI 2023] TDG4Crowd:Test Data Generation for Evaluation of Aggregation Algorithms in Crowdsourcing <br>
   (Fang et al.) [[Link](https://www.ijcai.org/proceedings/2023/0333)]
-* [TMLR 2023 (Under Review)] Multi-annotator Deep Learning: A Probabilistic Framework for Classification <br>
-  (Anonymous) [[Link](https://openreview.net/forum?id=MgdoxzImlK&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))]
+* [TMLR 2023] Multi-annotator Deep Learning: A Probabilistic Framework for Classification <br>
+  (Herde et al.) [[Link](https://openreview.net/forum?id=MgdoxzImlK&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR))]
 
 <br> <br> <br>
 
